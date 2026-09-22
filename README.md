@@ -1,17 +1,3 @@
-"""
-
-Number Guessing Game (CLI)
-
----------------------------
-
-The computer picks a random number between 1 and 100.
-
-The user picks a difficulty level, which sets how many guesses they get,
-
-then tries to guess the number within that many attempts.
-
-"""
-
 import random
 
 DIFFICULTIES = {
